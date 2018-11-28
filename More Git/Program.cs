@@ -12,6 +12,7 @@ namespace More_Git
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Welcome to the number world");
         }
     }
 }
